@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms", "Algorithms\Al
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmsTest", "AlgorithmsTest\AlgorithmsTest.csproj", "{BA2772E1-FFFD-4850-BDE5-8932D4390742}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxProject", "SandboxProject\SandboxProject.csproj", "{AD6535D3-ED58-40D2-BBDF-85046E67E4B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SandboxProject", "SandboxProject\SandboxProject.csproj", "{AD6535D3-ED58-40D2-BBDF-85046E67E4B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

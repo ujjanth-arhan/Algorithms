@@ -4,14 +4,19 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <Title>Some algorithms</Title>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>$(AssemblyName) Ujjanth, Raja</Authors>
     <Description>Implementation of some basic algorithms</Description>
     <PackageReleaseNotes>Basic project setup with insertion sort implementation</PackageReleaseNotes>
-    <AssemblyVersion>0.0.1</AssemblyVersion>
-    <FileVersion>0.0.1</FileVersion>
+    <AssemblyVersion>0.0.2</AssemblyVersion>
+    <FileVersion>0.0.2</FileVersion>
+    <RepositoryUrl>https://github.com/ujjanth-arhan/algorithms</RepositoryUrl>
+    <PackageId>SomeBasic$(AssemblyName)</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/ujjanth-arhan/algorithms</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
